@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+#jdtpwk {
+	text-align:center;
+	height: 540px;
+	width: 960px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+#kzan {
+	height: 0px;
+	width: 260px;
+	margin-top: 0px;
+	margin-right:auto;
+	margin-left:auto;
+}
+#kza {
+	height: 0px;
+	width: 260px;
+	margin-top: 0px;
+	margin-right:auto;
+	margin-left:auto;
+}
+#Leftbtnn {
+	float:left;
+	height: 64px;
+	width: 64px;
+}
+#leftbtn {
+	float:left;
+	height: 64px;
+	width: 64px;
+}
+#rightbtn {
+	float:right;
+	height: 64px;
+	width: 64px;
+}
+#centor{
+	float:right;
+	height: 64px;
+	width: 64px;
+}
